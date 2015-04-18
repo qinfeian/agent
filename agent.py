@@ -1,7 +1,7 @@
 # encoding:utf-8
- __author__ ="zhangzhe <zhangzhe0707@gmail.com>"
- __version__ =1.0
- __date__ ="12-10-29"
+ __author__ =""
+ __version__ =""
+ __date__ =""
   
   
  import os
